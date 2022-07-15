@@ -12,6 +12,8 @@ from tsrdmodel.data import data_transforms
 BATCH_SIZE = 64
 REPORT_INTERVAL = 10
 
+DATA_DIR = ""
+
 def train(epoch):
     model.train()
     correct = 0
@@ -54,7 +56,7 @@ if __name__ == "__main__":
 
     # Apply data transformations on the training images to augment dataset
     train_loader = torch.utils.data.DataLoader(
-        datasets.ImageFolder('N:/PycharmProjects/scratchthat/datasets/tsrd_mask/train',
+        datasets.ImageFolder(DATA_DIR,
                              transform=data_transforms), batch_size=BATCH_SIZE,
         shuffle=True, num_workers=4, pin_memory=use_gpu)
 

@@ -11,6 +11,7 @@ import time
 import os
 import copy
 
+DATA_DIR = ""
 
 def train_model(model, criterion, optimizer, scheduler, num_epochs=25):
     global dataloader, dataset_size
@@ -103,7 +104,7 @@ if __name__ == "__main__":
         ]),
     }
 
-    data_dir = 'N:/PycharmProjects/scratchthat/datasets/tsrd_mask/train'
+    data_dir = DATA_DIR
     image_dataset = datasets.ImageFolder(data_dir, data_transforms['train'])
 
     dataloader = torch.utils.data.DataLoader(image_dataset, batch_size=4,
