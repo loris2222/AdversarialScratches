@@ -1,0 +1,811 @@
+{
+    "name": "test_byclass",
+    "type": "directory",
+    "children": [
+        {
+            "name": "000",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "000_0046.png",
+                    "type": "file"
+                },
+                {
+                    "name": "000_0056.png",
+                    "type": "file"
+                },
+                {
+                    "name": "000_0058.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "001",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "001_0002_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "001_1_0003.png",
+                    "type": "file"
+                },
+                {
+                    "name": "001_1_0008.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "002",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "002_0009_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "002_0013.png",
+                    "type": "file"
+                },
+                {
+                    "name": "002_1_0011.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "003",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "003_0028_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "003_1_0040.png",
+                    "type": "file"
+                },
+                {
+                    "name": "003_1_0105.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "004",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "004_0027.png",
+                    "type": "file"
+                },
+                {
+                    "name": "004_0028.png",
+                    "type": "file"
+                },
+                {
+                    "name": "004_1_0009.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "005",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "005_0042.png",
+                    "type": "file"
+                },
+                {
+                    "name": "005_1_0007.png",
+                    "type": "file"
+                },
+                {
+                    "name": "005_1_0010_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "006",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "006_0006.png",
+                    "type": "file"
+                },
+                {
+                    "name": "006_0038.png",
+                    "type": "file"
+                },
+                {
+                    "name": "006_1_0003.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "007",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "007_1_0003.png",
+                    "type": "file"
+                },
+                {
+                    "name": "007_1_0008.png",
+                    "type": "file"
+                },
+                {
+                    "name": "007_1_0026_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "008",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "008_0006_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "009",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "010",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "010_0015_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "010_0029.png",
+                    "type": "file"
+                },
+                {
+                    "name": "010_1_0003.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "011",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "011_0061.png",
+                    "type": "file"
+                },
+                {
+                    "name": "011_0067.png",
+                    "type": "file"
+                },
+                {
+                    "name": "011_1_0015.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "012",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "012_0011_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "012_0012_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "012_0045.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "013",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "013_0003.png",
+                    "type": "file"
+                },
+                {
+                    "name": "013_0048.png",
+                    "type": "file"
+                },
+                {
+                    "name": "013_1_0027_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "014",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "014_0059.png",
+                    "type": "file"
+                },
+                {
+                    "name": "014_1_0002_1_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "014_1_0040.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "015",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "015_0001.png",
+                    "type": "file"
+                },
+                {
+                    "name": "015_1_0010_1_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "015_1_0014.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "016",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "016_0001.png",
+                    "type": "file"
+                },
+                {
+                    "name": "016_1_0018.png",
+                    "type": "file"
+                },
+                {
+                    "name": "016_1_0021_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "017",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "017_0041.png",
+                    "type": "file"
+                },
+                {
+                    "name": "017_0043.png",
+                    "type": "file"
+                },
+                {
+                    "name": "017_1_0056.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "018",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "018_1_0003.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "019",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "020",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "020_1_0005.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "021",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "021_1_0005.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "022",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "022_0005_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "022_1_0004_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "023",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "023_0001.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "024",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "024_0048.png",
+                    "type": "file"
+                },
+                {
+                    "name": "024_1_0003_1_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "024_1_0010.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "025",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "026",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "026_0009.png",
+                    "type": "file"
+                },
+                {
+                    "name": "026_0063_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "026_1_0031.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "027",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "027_0001.png",
+                    "type": "file"
+                },
+                {
+                    "name": "027_1_0007.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "028",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "028_0114.png",
+                    "type": "file"
+                },
+                {
+                    "name": "028_0189.png",
+                    "type": "file"
+                },
+                {
+                    "name": "028_1_0191.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "029",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "029_0014.png",
+                    "type": "file"
+                },
+                {
+                    "name": "029_1_0008.png",
+                    "type": "file"
+                },
+                {
+                    "name": "029_1_0010_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "030",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "030_0068.png",
+                    "type": "file"
+                },
+                {
+                    "name": "030_1_0002.png",
+                    "type": "file"
+                },
+                {
+                    "name": "030_1_0032.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "031",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "031_0016.png",
+                    "type": "file"
+                },
+                {
+                    "name": "031_1_0002.png",
+                    "type": "file"
+                },
+                {
+                    "name": "031_1_0003_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "032",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "032_0004_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "033",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "034",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "034_0001_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "035",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "035_0021.png",
+                    "type": "file"
+                },
+                {
+                    "name": "035_0024_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "035_1_0002_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "036",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "036_0014.png",
+                    "type": "file"
+                },
+                {
+                    "name": "036_1_0002_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "037",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "037_0001.png",
+                    "type": "file"
+                },
+                {
+                    "name": "037_1_0024.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "038",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "038_0007.png",
+                    "type": "file"
+                },
+                {
+                    "name": "038_0018_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "038_1_0004.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "039",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "039_0010.png",
+                    "type": "file"
+                },
+                {
+                    "name": "039_1_0003_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "040",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "040_0001_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "041",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "041_1_0005.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "042",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "042_0014_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "042_1_0003.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "043",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "043_0045.png",
+                    "type": "file"
+                },
+                {
+                    "name": "043_0059.png",
+                    "type": "file"
+                },
+                {
+                    "name": "043_1_0029_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "044",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "044_0008_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "044_1_0004.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "045",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "045_0005.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "046",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "046_1_0006_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "047",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "047_0005.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "048",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "049",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "049_0013.png",
+                    "type": "file"
+                },
+                {
+                    "name": "049_1_0010.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "050",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "050_0006_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "050_0007.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "051",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "051_0005_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "052",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "052_0003_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "053",
+            "type": "directory",
+            "children": []
+        },
+        {
+            "name": "054",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "054_0128.png",
+                    "type": "file"
+                },
+                {
+                    "name": "054_0160.png",
+                    "type": "file"
+                },
+                {
+                    "name": "054_1_0006.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "055",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "055_0001.png",
+                    "type": "file"
+                },
+                {
+                    "name": "055_0076.png",
+                    "type": "file"
+                },
+                {
+                    "name": "055_1_0030.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "056",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "056_0004_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "056_0021_j.png",
+                    "type": "file"
+                },
+                {
+                    "name": "056_1_0009_1_j.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "057",
+            "type": "directory",
+            "children": []
+        }
+    ]
+}
